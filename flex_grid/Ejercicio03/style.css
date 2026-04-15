@@ -1,0 +1,14 @@
+.header {
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.logo {
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.usuario {
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
