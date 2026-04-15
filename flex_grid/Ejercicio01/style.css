@@ -1,0 +1,7 @@
+/* 
+* Cambiar el color de todos los <p> a azul (blue) 
+*/
+
+p {
+    color: rgb(11, 11, 226);
+}
